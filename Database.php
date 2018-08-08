@@ -1,14 +1,4 @@
 <?php
-
-
-/*
-*
-* CRUD + MVC 
-* Por Pedro Henrique
-* Contato: pedro.progsantos@gmail.com
-*
-*/
-
 namespace Lib;
 
 use \Lib\Config;
